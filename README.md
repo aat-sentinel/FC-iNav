@@ -1,1 +1,1 @@
-# iNav
+# iNav versions precompiled for Sentinel
